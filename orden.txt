@@ -1,0 +1,22 @@
+Proyect-GestorLab-Prototipo/
+│
+├── base_datos/                 
+│   ├── __pycache__/            
+│   ├── conexion.py             
+│   ├── GestorLab.db            
+│   └── operaciones.py          
+│
+├── logica/                     
+│   ├── __pycache__/            
+│   ├── generador_pdf.py        
+│   ├── motor_asignacion.py     
+│   └── procesador_horario.py   
+│
+├── vistas/                     
+│   ├── __pycache__/            
+│   ├── login.py                
+│   ├── vista_admin.py          
+│   ├── vista_docente.py        
+│   └── vista_jefe.py           
+│
+└── main.py
